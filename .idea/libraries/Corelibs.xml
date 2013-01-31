@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Corelibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/my-gdx-game/libs/gdx-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/my-gdx-game/libs/gdx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
